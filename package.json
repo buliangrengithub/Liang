@@ -1,0 +1,22 @@
+{
+  "name": "wechar",
+  "version": "0.1.0",
+  "description": "电商小程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buliangrengithub/Liang.git"
+  },
+  "author": "zl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buliangrengithub/Liang/issues"
+  },
+  "homepage": "https://github.com/buliangrengithub/Liang#readme",
+  "dependencies": {
+    "lin-ui": "^0.8.9"
+  }
+}
